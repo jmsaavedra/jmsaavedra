@@ -4,7 +4,7 @@ function setup() {
 }
 
 function draw() {
-  background('rgba(0,0,0, 0.1)');
+  background('rgba(0,0,0, 0.05)');
   textSize(32);
   text("hello github.io!", mouseX, mouseY);
 }
